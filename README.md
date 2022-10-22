@@ -1,4 +1,4 @@
-# fresh-grass-dew-drops
+# songbird
 
 This is a personal goal -- to read one research paper, article, blogpost, or tutorial every morning, the biggest part of my CS (mostly AI) journey to understand abstract ideas, problems, and ongoing research very well. The goal is to learn daily, and find myself and figure out what the most important and interesting probems are for me to work on in the future.
 
